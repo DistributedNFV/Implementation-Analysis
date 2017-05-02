@@ -1,0 +1,4 @@
+SIP: 10.0.0.1/32
+SMAC: aaa.bbb.ccc.ddd
+DMAC: ddd.ccc.bbb.aaa
+DIP: 192.168.0.1/32

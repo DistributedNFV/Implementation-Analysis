@@ -1,0 +1,4 @@
+1.0.0.0/30 is directly connected, int1
+1.0.0.1/32 is directly connected, int1
+2.0.0.0/30 is directly connected, int2
+2.0.0.1/32 is directly connected, int2
